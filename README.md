@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-Just some very random projects as I learn.
+Just some random projects as I learn.
 <!--
 **az-net-sa/az-net-sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
